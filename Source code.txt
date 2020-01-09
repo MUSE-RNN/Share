@@ -1,2 +1,0 @@
-The MATLAB m files corresponding to the MUSE-RNN code are available on request.
-Please contact: monidipadas@hotmail.com; monidipadas@ntu.edu.sg
